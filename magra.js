@@ -1,6 +1,6 @@
 #include <bits/stdc++.h> 
 using namespace std; 
-  
+  //Hello buddy how ru u
 void swap(int *xp, int *yp)  
 {  
     int temp = *xp;  
